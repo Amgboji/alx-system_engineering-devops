@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+Write a script that prints the type of the file named iamafile
