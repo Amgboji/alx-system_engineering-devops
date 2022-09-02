@@ -1,1 +1,1 @@
-script that adds execute permission to the owner 
+The file hello will be in the working directory
