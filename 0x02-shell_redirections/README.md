@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World
+0x02. Shell, I/O Redirections and filters
