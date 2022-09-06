@@ -1,1 +1,2 @@
-Display the content of the /etc/passwd file
+Lets display a file >README.md 
+echo Lets display a file
