@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file
+Being unique is better than being perfect
