@@ -1,2 +1,1 @@
-Id prefer the first ones actually > README.md 
-echo Id prefer the first ones actually
+Write a script that prints “Hello, World”, followed by a new line to the standard output
