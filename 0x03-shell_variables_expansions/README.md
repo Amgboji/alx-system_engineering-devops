@@ -1,1 +1,1 @@
-Divide and rule
+Divide and rulehen
