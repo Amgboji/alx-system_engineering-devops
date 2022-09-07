@@ -1,1 +1,1 @@
-Divide and rulehen
+Write a script that displays the result of BREATH to the power LOVE
