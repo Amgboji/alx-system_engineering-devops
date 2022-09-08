@@ -1,1 +1,1 @@
-just count
+No more javascript
