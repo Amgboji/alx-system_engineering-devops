@@ -1,1 +1,1 @@
-Floats
+Global variable
