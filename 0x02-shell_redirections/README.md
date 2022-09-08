@@ -1,1 +1,1 @@
-Being unique is better than being perfect
+Create a script that displays
