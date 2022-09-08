@@ -1,1 +1,1 @@
-Display lines containing
+Count that word
