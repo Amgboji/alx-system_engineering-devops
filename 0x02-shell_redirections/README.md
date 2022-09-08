@@ -1,1 +1,1 @@
-A gif is worth ten thousand words
+Empty casks make the most noise
