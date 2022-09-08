@@ -1,1 +1,2 @@
-#!/bin/bash\ nsort  | uniq -u
+#!/bin/bash
+egrep 'root' /etc/passwd
