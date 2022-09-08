@@ -1,1 +1,1 @@
-Create a script that displays
+just count
