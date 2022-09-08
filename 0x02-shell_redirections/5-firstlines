@@ -1,4 +1,2 @@
- #!/bin/bash
-head -3 iacta | tail -1
-head -n head /etc/passwd
+#!/bin/bash
 head -n 10 /etc/passwd
